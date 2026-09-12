@@ -2,10 +2,6 @@ import joblib
 import pandas as pd
 import streamlit as st
 
-# verification google
-<meta name="google-site-verification" content="sJU8JxhkUDwAyO9eYWW036oyCEh_qTgFjKE7lX2L6FQ" />
-unsafe_allow_html=true
-
 # Configuration de la page Streamlit
 st.set_page_config(
     page_title="Estimation Immobilière", page_icon="🏡", layout="centered"
